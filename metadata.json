@@ -1,0 +1,5 @@
+{
+  "name": "Reddit Insight App",
+  "description": "A powerful market research tool extracting insights, trends, and brand sentiment directly from Reddit discussions using Gemini.",
+  "requestFramePermissions": []
+}
